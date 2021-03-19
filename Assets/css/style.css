@@ -20,6 +20,7 @@ body{
     margin: 50px auto;
     width: 85%;
     max-width: 300px;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.2) ;
 }
 
 
@@ -27,7 +28,7 @@ body{
     background-color: #fff;
     padding: 35px 30px;
     border-radius: 8px 8px 0 0;
-    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.2) ;
+   
 }
 
 .grid-section-A h2{
